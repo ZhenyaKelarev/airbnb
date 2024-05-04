@@ -3,7 +3,6 @@ import React from "react"
 import { Tabs } from "expo-router"
 import Colors from "@/constants/Colors"
 import {
-  FontAwesome,
   FontAwesome5,
   Ionicons,
   MaterialCommunityIcons,
